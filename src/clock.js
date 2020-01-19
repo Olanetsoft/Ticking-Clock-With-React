@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import Footer from './footer';
+
 import './clock.css';
 class Clock extends Component {
     constructor(props){
@@ -36,7 +38,9 @@ class Clock extends Component {
         return (
             <div className="Time">
                 <p> {this.state.time}</p>
+                <Footer/>
             </div>
+            
         );
     }
 }
