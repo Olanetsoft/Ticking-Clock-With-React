@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/32987c4d-ec58-438a-bb34-a82d9f2ab212/deploy-status)](https://app.netlify.com/sites/sad-minsky-bbdf0f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/32987c4d-ec58-438a-bb34-a82d9f2ab212/deploy-status)](https://app.netlify.com/sites/digital-web-clock/deploys)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
